@@ -1,7 +1,7 @@
 
 ### Hello everyone 
 <div id="header" align="center">
-    <img style="width: 370px;" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="">
+    <img replay style="width: 180px;" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="">
 </div><br/><br/>
 
 ## about me 
@@ -39,6 +39,8 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=fran-0502&show_icons=true&theme=radical">
 </p>
+
+
 
 
 
