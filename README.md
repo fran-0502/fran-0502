@@ -1,22 +1,17 @@
 
 ### Hello everyone 
-<div id="header">
-    <img style="width: 330px;" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="">
+<div id="header" align="center">
+    <img style="width: 370px;" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="">
 </div><br/><br/>
 
 ## about me 
 
 <p style="font-size:22px">
-    a programmer with a great capacity for adaptation, a lot of tolerance and a great desire to seek growth. 😃😃😃
+    a programmer with a great capacity for adaptation, a lot of tolerance and a great desire to seek growth. 😃😃😃. <br/><br/>
+    as a fullstack programmer I can perform many roles in different ways and I have a better performance and understanding with python.
 </p>
 
-<ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
+
 
 ## social networks 
 
@@ -44,4 +39,6 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=fran-0502&show_icons=true&theme=radical">
 </p>
+
+
 
