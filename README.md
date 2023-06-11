@@ -2,7 +2,7 @@
 
 ### Hello everyone 
 <div id="header" align="center">
-    <img style="width: 180px;" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="">
+    <img style="width:170px;" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="">
 </div><br/><br/>
 
 ## about me 
